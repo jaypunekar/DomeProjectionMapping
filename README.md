@@ -8,5 +8,5 @@ Dome projection mapping is a technique that involves projecting visual content, 
 1. 8 Projectors
 2. 2 Nvidia Qudro T1000
 3. Nvidia RTX Desktop Manager
-4. HeavyM.
+4. HeavyM [HeavyM](https://https://www.heavym.net/)
 5. It is good to know the dimentions of your dome.
