@@ -11,11 +11,13 @@ Dome projection mapping is a technique that involves projecting visual content, 
 5. A camera and fisheye lens.
 
 ## Materials I have used.
-1. 8 PT-VW530 Panasonic Projectors.
+1. 4 Opotoma X306ST Short Throw Projectors.
 2. A PC with 2 T1000 Nvidia Graphics card.
-3. 8 HDMI cables & 8 HDMI to mini DP adapters.
+3. 4 HDMI cables & 8 HDMI to mini DP adapters.
 4. Canon EOS 5D Mark IV Body.
 5. Canon EF 8-15mm f/4L Fisheye USM.
 6. EOS Webcam Utiliy Software.
 7. NestMap Software.
+
+#### Note:- If you are connecting projectors to 2 different graphics cards then NestMap will give you problems. So make sure you connect all projectors to 1 graphics card.
 
