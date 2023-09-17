@@ -1,4 +1,4 @@
-# DomeProjectionMapping
+# DomeProjectiohttps://github.com/jaypunekar/DomeProjectionMapping/tree/mainnMapping
 This repo will guide you on how to can create your own full dome experience. This will be done with Nivida Qudro graphics card and multiple projectors or screens.
 
 ## What is Dome Projection Mapping?
@@ -17,7 +17,8 @@ Dome projection mapping is a technique that involves projecting visual content, 
 4. Canon EOS 5D Mark IV Body.
 5. Canon EF 8-15mm f/4L Fisheye USM.
 6. EOS Webcam Utiliy Software.
-7. NestMap Software.
+7. NestMap Software [NestMap](https://nestimmersion.ca/nestmap.php).
+8. NestPlay Lite (You get it free with nestmap purchase)
 
 #### Note:- If you are connecting projectors to 2 different graphics cards then NestMap will give you problems. So make sure you connect all projectors to 1 graphics card.
 
