@@ -22,3 +22,7 @@ Dome projection mapping is a technique that involves projecting visual content, 
 
 #### Note:- If you are connecting projectors to 2 different graphics cards then NestMap will give you problems. So make sure you connect all projectors to 1 graphics card.
 
+## Steps.
+
+### Step 1:
+Set all four projectors in such a way that the entire dome is covered. It is OK if projection goes outside of the dome, your [NestMap](https://nestimmersion.ca/nestmap.php) software will take care of it.
