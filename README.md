@@ -25,4 +25,7 @@ Dome projection mapping is a technique that involves projecting visual content, 
 ## Steps.
 
 ### Step 1:
-Set all four projectors in such a way that the entire dome is covered. It is OK if projection goes outside of the dome, your [NestMap](https://nestimmersion.ca/nestmap.php) software will take care of it.
+Set all four projectors in such a way that the entire dome is covered. It is OK if projection goes outside of the dome, your [NestMap](https://nestimmersion.ca/nestmap.php) software will take care of it. The projector will be visible in the NestMap Software
+
+### Step 2:
+Set up your camera in such a way that the whole dome can be seen through the lens, then connect your camera to your PC. Remember to install EOS Webcam Utility. You will also have to Select EOS Webuitlity in NestMap.
