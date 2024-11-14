@@ -31,4 +31,5 @@ Set all four projectors in such a way that the entire dome is covered. It is OK 
 Set up your camera in such a way that the whole dome can be seen through the lens, then connect your camera to your PC. Remember to install EOS Webcam Utility. You will also have to Select EOS Webuitlity in NestMap.
 
 ### Step 3:
-After setup click on Auto Clibrate and wait for it to automatically map the entire dome.
+After setup click on Auto Clibrate and wait for it to automatically map the entire dome. 
+Note:-  You may have to do it multiple times to get accurate results.
